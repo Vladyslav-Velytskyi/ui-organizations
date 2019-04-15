@@ -458,6 +458,8 @@
     "settings.name": "الاسم",
     "settings.action": "الإجراءات",
     "settings.vendorSettings": "إعدادات مقدم الخدمة",
-    "settings.": "فارغ",
-    "end": "فارغ"
+    "summary.organizationStatus": "Organization status",
+    "summary.isVendor": "Vendor",
+    "edi.orders": "Orders",
+    "edi.invoices": "Invoices"
 }

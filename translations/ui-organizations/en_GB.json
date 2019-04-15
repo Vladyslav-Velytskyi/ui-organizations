@@ -458,6 +458,8 @@
     "settings.name": "name",
     "settings.action": "actions",
     "settings.vendorSettings": "Vendor Settings",
-    "settings.": "",
-    "end": ""
+    "summary.organizationStatus": "Organization status",
+    "summary.isVendor": "Vendor",
+    "edi.orders": "Orders",
+    "edi.invoices": "Invoices"
 }

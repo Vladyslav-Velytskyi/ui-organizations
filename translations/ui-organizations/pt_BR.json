@@ -458,6 +458,8 @@
     "settings.name": "nome",
     "settings.action": "ações",
     "settings.vendorSettings": "Configurações do fornecedor",
-    "settings.": "",
-    "end": ""
+    "summary.organizationStatus": "Organization status",
+    "summary.isVendor": "Vendor",
+    "edi.orders": "Orders",
+    "edi.invoices": "Invoices"
 }
